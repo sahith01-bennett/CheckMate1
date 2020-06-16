@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "815312039143",
+    "firebase_url": "https://mesh-536fd.firebaseio.com",
+    "project_id": "mesh-536fd",
+    "storage_bucket": "mesh-536fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815312039143:android:809d4b4873e09105138642",
+        "android_client_info": {
+          "package_name": "com.example.mesh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815312039143-7kk3k65orrc2eent79bd76lq5qqbhevc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mesh",
+            "certificate_hash": "027f670532d3cd33d92523139796854a67d373a0"
+          }
+        },
+        {
+          "client_id": "815312039143-q397tkgdmlu5uht9prf128otenjc37fl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3mu6gB-ShGSo1UXUioEiOyiVGoKsqcIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815312039143-q397tkgdmlu5uht9prf128otenjc37fl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
